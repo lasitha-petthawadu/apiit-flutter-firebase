@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## References
+
+- [Configuration of Firebase with Flutter](https://firebase.google.com/docs/flutter/setup?platform=ios)
+- [Configuring Firebase Real-time DBs with Flutter](https://firebase.google.com/docs/flutter/setup?platform=ios)
+- [Reading and Writing Data through the real-time DB](https://firebase.google.com/docs/database/flutter/read-and-write)
